@@ -1,0 +1,6 @@
+none
+smile
+mad
+sad
+baws
+scared
