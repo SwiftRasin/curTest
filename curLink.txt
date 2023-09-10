@@ -1,1 +1,1 @@
-wss://0571-24-204-166-51.ngrok-free.app
+https://ef00-24-204-166-51.ngrok-free.app
